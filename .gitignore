@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.csv
+.env
+app_v30_backup.py
+app_lama.py
+app_sebelum_*.py
